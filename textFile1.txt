@@ -2,3 +2,4 @@ new tex File to testing commit
 new text added from newFeatureBranch
 added new other line from new newFeatureBranch
 Add Line 4 from Main branch
+add line 4 from mergeBrach
