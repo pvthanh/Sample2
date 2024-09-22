@@ -1,1 +1,2 @@
 new tex File to testing commit
+new text added from newFeatureBranch
